@@ -1,0 +1,13 @@
+.GetPost{
+    width: 300px;
+    background: #6c757d;
+    cursor: pointer;
+}
+
+.getName{
+    border-block-end: 2px solid black;
+    font-size: 18px;
+    color: #fff;
+    padding-left: 4px;
+    font-weight: bold;
+}
